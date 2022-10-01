@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My DTS App</string>
+
+    <string name="button01">Input Data</string>
+    <string name="button02">Tampil Data</string>
+    <string name="button03">About</string>
+    <string name="btnlokasi">Cek Lokasi Sekarang</string>
+    <string name="btnUpload">Upload Gambar</string>
+</resources>
