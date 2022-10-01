@@ -1,5 +1,5 @@
 # Aplikasi-DTS-SQLite
-Belajar membuat aplikasi pendaftaran dengan terkoneksi database SQlite (Android studio Java )
+Belajar membuat aplikasi pendaftaran dengan terkoneksi database SQlite (Android studio Java)
 <br>
 ![Screenshot_2022-09-30-20-22-28-34](https://user-images.githubusercontent.com/95423605/193392852-8efb1129-7d46-4dc6-b391-33ea9c383367.jpg)
 ![Screenshot_2022-09-30-20-23-14-44](https://user-images.githubusercontent.com/95423605/193392855-f63e4124-d204-4261-8a06-32f2bac38e94.jpg)
